@@ -1,16 +1,16 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Stats from "./components/Stats";
-import About from "./components/About";
-import WhyChoose from "./components/WhyChoose";
-import Products from "./components/Products";
-import Brands from "./components/Brands";
-import Gallery from "./components/Gallery";
-import GoogleReviews from "./components/GoogleReviews";
-import Contact from "./components/Contact";
-import QuoteForm from "./components/QuoteForm";
-import Footer from "./components/Footer";
-import FloatingButtons from "./components/FloatingButtons";
+import Navbar from "./components/layout/Navbar";
+import Hero from "./components/home/Hero";
+import Stats from "./components/home/Stats";
+import About from "./components/home/About";
+import WhyChoose from "./components/home/WhyChoose";
+import Products from "./components/home/Products";
+import Brands from "./components/home/Brands";
+import Gallery from "./components/home/Gallery";
+import GoogleReviews from "./components/home/GoogleReviews";
+import Contact from "./components/home/Contact";
+import QuoteForm from "./components/home/QuoteForm";
+import Footer from "./components/layout/Footer";
+import FloatingButtons from "./components/layout/FloatingButtons";
 
 export default function App() {
   return (
