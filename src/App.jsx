@@ -11,11 +11,14 @@ import Contact from "./components/home/Contact";
 import QuoteForm from "./components/home/QuoteForm";
 import Footer from "./components/layout/Footer";
 import FloatingButtons from "./components/layout/FloatingButtons";
+import LoadingScreen from "./components/LoadingScreen";
 
 export default function App() {
   return (
  <>
-  <Navbar />
+  <>
+  <LoadingScreen />
+</><Navbar />
   <Hero />
   <Stats />
   <About />
