@@ -17,13 +17,13 @@ const brands = [
     desc: "High-strength cement for durable structures.",
   },
   {
-    name: "Yoddha TMT",
+    name: "Yoddha ",
     logo: "/brands/yoddha.png",
     desc: "Reliable TMT bars for reinforced construction.",
   },
   {
     name: "Kalawati Bricks",
-    logo: "/logo.png",
+    logo: "/brands/kalawati-bricks.png",
     desc: "Our own premium fly ash bricks and solid blocks.",
   },
 ];
