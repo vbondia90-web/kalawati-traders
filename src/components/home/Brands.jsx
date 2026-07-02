@@ -17,8 +17,8 @@ const brands = [
     desc: "Our own premium fly ash bricks and solid blocks.",
   },
   {
-    name: "Yoddha ",
-    logo: "/brands/yoddha.png",
+    name: "Goel TMT ",
+    logo: "/brands/goel-tmt.png",
     desc: "Reliable TMT bars for reinforced construction.",
   },
   {
