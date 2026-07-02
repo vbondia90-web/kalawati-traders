@@ -12,9 +12,9 @@ const brands = [
     desc: "Trusted cement and construction solutions.",
   },
   {
-    name: "Bangur Cement",
-    logo: "/brands/bangur.png",
-    desc: "High-strength cement for durable structures.",
+    name: "Kalawati Bricks",
+    logo: "/brands/Kalawati-bricks.png",
+    desc: "Our own premium fly ash bricks and solid blocks.",
   },
   {
     name: "Yoddha ",
@@ -22,9 +22,9 @@ const brands = [
     desc: "Reliable TMT bars for reinforced construction.",
   },
   {
-    name: "Kalawati Bricks",
-    logo: "/brands/kalawati-bricks.png",
-    desc: "Our own premium fly ash bricks and solid blocks.",
+    name: "Bangur Cement",
+    logo: "/brands/bangur.png",
+    desc: "High-strength cement for durable structures.",
   },
 ];
 
