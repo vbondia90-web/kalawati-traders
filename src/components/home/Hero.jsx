@@ -47,7 +47,7 @@ export default function Hero() {
         <motion.div initial={{ opacity: 0, scale: 0.94 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.7, delay: 0.2 }} className="grid grid-cols-2 gap-5">
           {[
             ["1000+", "Happy Customers"],
-            ["500+", "Deliveries"],
+            ["4000+", "Deliveries"],
             ["13+", "Products"],
             ["5+", "Brands"],
           ].map(([number, label]) => (
